@@ -6,4 +6,4 @@ Its a telegram bot which gives generic replies
 * TELEGRAF PACKAGE
 
 ## SCREENSHOT
-![Telegram Bot Screenshot]{C:\Users\sindh\OneDrive\Desktop\telegram\assets\Screenshot (65).png}
+![Telegram Bot Screenshot](assets\Screenshot (65).png)
